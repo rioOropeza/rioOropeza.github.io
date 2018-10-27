@@ -1,8 +1,21 @@
 .background { 
-    background-image: url("risingsun.png");
+    background-image: url("assets/tattoos.jpg");
     height: 100%; 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+h2{
+  font-weight: 700;
+}
+
+body { padding-top: 70px; }
+
+/* div{
+  outline: 1px solid black;
+} */
+
+.portfoliopictures{
+  padding: 10px;
 }
