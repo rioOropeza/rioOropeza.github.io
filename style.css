@@ -19,3 +19,7 @@ body { padding-top: 70px; }
 .portfoliopictures{
   padding: 10px;
 }
+
+.words{
+  background: rgba(255, 255, 255, 0.555);
+}
